@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0
+}
+.first img{
+    width:50%;
+    height:30%;
+}
+button{
+    width: 5%;
+    height: 30px;
+    margin-left: 3em;
+}
+.state{
+    text-align: center;
+}
+span{
+    margin-left: 20px;
+}
